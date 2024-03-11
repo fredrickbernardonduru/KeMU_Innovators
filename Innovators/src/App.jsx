@@ -1,8 +1,5 @@
-
 function App() {
-
-
-  return <div className="App">app</div>
+  return <div className="font-Poppins bg-SolitudeS">app</div>;
 }
 
-export default App
+export default App;
